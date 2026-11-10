@@ -142,3 +142,13 @@ npm test
 - [x] Comunicar el riesgo y la incertidumbre con precisión técnica.
 - [x] Usar automatización en CI donde ahorra esfuerzo repetitivo.
 - [x] Realizar pruebas de rendimiento y seguridad de forma ética y autorizada.
+
+<img width="773" height="472" alt="image" src="https://github.com/user-attachments/assets/74b5446a-5cdf-45e5-9d1a-fbbaa45fac94" />
+<img width="768" height="476" alt="image" src="https://github.com/user-attachments/assets/9bb8db21-b3ee-4b1c-8563-7d10773aea6e" />
+<img width="767" height="474" alt="image" src="https://github.com/user-attachments/assets/80882cc9-9831-425f-8ef4-66b8d8496637" />
+<img width="953" height="501" alt="image" src="https://github.com/user-attachments/assets/ead626d9-b967-46c4-ab3e-07bd55065ba4" />
+<img width="953" height="498" alt="image" src="https://github.com/user-attachments/assets/f0d5d867-aed0-4354-9d53-ee879ce9b62b" />
+
+
+
+
